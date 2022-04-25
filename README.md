@@ -1,8 +1,8 @@
 ## Amin-Modaresi
 # 💫About Me :
- I’m currently learning Nuxt
- I’m interested in team work and also learning more.
- Ask me about HTML-CSS-JavaScript-Vue.js
+ I’m currently learning Nuxt  
+ I’m interested in team work and also learning more.  
+ Ask me about HTML-CSS-JavaScript-Vue.js  
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aminmodaresi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amin-Modaresi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Amin_MT_) 
