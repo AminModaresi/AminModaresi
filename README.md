@@ -1,5 +1,5 @@
 # 💫About Me :
- I’m currently learning Nuxt  
+ I’m currently learning Next.js  
  I’m interested in team work and also learning more.  
  Ask me about HTML-CSS-JavaScript-Vue.js  
 
